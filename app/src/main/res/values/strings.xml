@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Choose Color</string>
+    <string name="choose_color">Choose color</string>
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Cyan</item>
+        <item>Violet</item>
+        <item>White</item>
+        <item>Grey</item>
+    </string-array>
+
+</resources>
